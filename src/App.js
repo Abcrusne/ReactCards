@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import Data from "./data.json";
+import Card from "./components/ProductCard";
 
 function App() {
   return (
@@ -18,6 +20,19 @@ function App() {
           Learn React
         </a>
       </header>
+      <main className="container">
+        <div className="row">
+          {/* get data which you need, unique keys for list  are must!
+          */}
+          {Data.map((post) => {
+            return (
+              <div className="col" key={post.id}>
+                <Card title={post.title} text={post.text} />
+              </div>
+            );
+          })}
+        </div>
+      </main>
     </div>
   );
 }
