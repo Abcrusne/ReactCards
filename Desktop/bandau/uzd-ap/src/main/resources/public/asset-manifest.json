@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/uzd-ap/static/js/main.d059761d.chunk.js",
+    "main.js.map": "/uzd-ap/static/js/main.d059761d.chunk.js.map",
+    "runtime-main.js": "/uzd-ap/static/js/runtime-main.d5874dd3.js",
+    "runtime-main.js.map": "/uzd-ap/static/js/runtime-main.d5874dd3.js.map",
+    "static/css/2.437d98bc.chunk.css": "/uzd-ap/static/css/2.437d98bc.chunk.css",
+    "static/js/2.99ee0adc.chunk.js": "/uzd-ap/static/js/2.99ee0adc.chunk.js",
+    "static/js/2.99ee0adc.chunk.js.map": "/uzd-ap/static/js/2.99ee0adc.chunk.js.map",
+    "static/js/3.c4247f06.chunk.js": "/uzd-ap/static/js/3.c4247f06.chunk.js",
+    "static/js/3.c4247f06.chunk.js.map": "/uzd-ap/static/js/3.c4247f06.chunk.js.map",
+    "index.html": "/uzd-ap/index.html",
+    "precache-manifest.2d59195c1355ceeea41edfa30dbbcdef.js": "/uzd-ap/precache-manifest.2d59195c1355ceeea41edfa30dbbcdef.js",
+    "service-worker.js": "/uzd-ap/service-worker.js",
+    "static/css/2.437d98bc.chunk.css.map": "/uzd-ap/static/css/2.437d98bc.chunk.css.map",
+    "static/js/2.99ee0adc.chunk.js.LICENSE.txt": "/uzd-ap/static/js/2.99ee0adc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5874dd3.js",
+    "static/css/2.437d98bc.chunk.css",
+    "static/js/2.99ee0adc.chunk.js",
+    "static/js/main.d059761d.chunk.js"
+  ]
+}
